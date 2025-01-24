@@ -1,0 +1,3 @@
+VHOST: /
+QUEUE: warehouse-payload-delivery-response
+INDEX: v2

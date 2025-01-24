@@ -1,0 +1,3 @@
+VHOST: /
+QUEUE: warehouse-payload-purchase-order
+INDEX: v2
